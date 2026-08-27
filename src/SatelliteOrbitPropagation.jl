@@ -29,7 +29,7 @@ export
     solve_kepler,
 
     # Coordinate transformations
-    kepler_to_pqw, pqw_to_eci, eci_to_ecef, ecef_to_latlon,
+    kepler_to_pqw, pqw_to_eci, eci_to_ecef, ecef_to_latlon, R3,
 
     # Perturbations
     compute_j2_secular_rates, propagate_j2_elements,
