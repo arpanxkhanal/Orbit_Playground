@@ -1,0 +1,17 @@
+# Julia
+/Manifest.toml
+/.julia/
+/docs/build/
+
+# Generated figures/results
+results/
+figures/
+*.png
+*.pdf
+*.svg
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
